@@ -29,10 +29,7 @@ public class Boletin21 {
             
         System.out.println("Sueldo bruto : "+sueldobruto);
         System.out.println("Sueldo neto : "+sueldototal);
-            
-            
-        
-        
+
         
         }
     
