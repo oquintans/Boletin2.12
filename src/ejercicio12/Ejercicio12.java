@@ -1,10 +1,10 @@
 
-package boletin2.pkg1;
+package ejercicio12;
 
 import java.util.Scanner;
 
 
-public class Boletin21 {
+public class Ejercicio12 {
 
     public static void main(String[] args) {
         
